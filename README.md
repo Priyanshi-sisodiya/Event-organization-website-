@@ -1,25 +1,12 @@
-# Event-organization-website-
-This is a modern Event Organization Web Application built . It allows users to explore, book, and manage various events like concerts, workshops, comedy shows, and more. The website also includes a secure admin panel for managing events.
+# React + Vite
 
-🔥 Features
-  🏠 Beautiful Home Page with Hero Banner and Popular Events Carousel
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-  📅 Events Listing Page with Search, Filters, and Calendar View
+Currently, two official plugins are available:
 
-  📋 Event Details Page with Booking Option
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-  🧑‍💼 Admin Panel to Add / Edit / Delete Events
+## Expanding the ESLint configuration
 
-  🧾 Booking System for Users
-
-  🔐 Role-based Authentication (User/Admin)
-
-  📱 Fully Responsive Design
-
-  🎨 Clean UI with Tailwind CSS & Framer Motion
-
-  🛠️ Tech Stack
-Frontend: React.js, Tailwind CSS, Swiper.js, React Icons
-
-  🙋‍♀️ Developed By
-Priyanshi Sisodiya – Full Stack Developer 💻
+If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
