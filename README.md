@@ -21,20 +21,5 @@ This is a modern Event Organization Web Application built . It allows users to e
   🛠️ Tech Stack
 Frontend: React.js, Tailwind CSS, Swiper.js, React Icons
 
-Folder Structure (Basic Idea)
-Edit
-client/
-  ├── src/
-  │   ├── components/
-  │   ├── pages/
-  │   ├── App.jsx
-  │   └── main.jsx
-server/
-  ├── models/
-  ├── routes/
-  ├── controllers/
-  ├── config/
-  └── index.js
-
   🙋‍♀️ Developed By
 Priyanshi Sisodiya – Full Stack Developer 💻
